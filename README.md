@@ -1,16 +1,6 @@
 # simplecalculator
 
 A new Flutter project.
+ 
+![SimpleCalculator_2023-03-15-14-05-30-35](https://user-images.githubusercontent.com/99971333/225272145-14b4e1bb-8157-4ca5-ad89-aaee0ffc4e0c.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
